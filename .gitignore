@@ -9,6 +9,9 @@ __pycache__/
 # Vagrant
 .vagrant/
 
+# nohup.out
+.out/
+
 # Distribution / packaging
 .Python
 build/
