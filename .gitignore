@@ -12,6 +12,9 @@ __pycache__/
 # nohup.out
 .out/
 
+# db.SQLite3 
+.sqlite3
+
 # Distribution / packaging
 .Python
 build/
