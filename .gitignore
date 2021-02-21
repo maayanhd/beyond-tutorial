@@ -10,10 +10,7 @@ __pycache__/
 .vagrant/
 
 # nohup.out
-.out/
-
-# db.SQLite3 
-.sqlite3
+nohup.out
 
 # Distribution / packaging
 .Python
